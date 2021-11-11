@@ -1,0 +1,8 @@
+{
+  "name": "Barber on the move",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7ce7055a"
+}
